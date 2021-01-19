@@ -1,5 +1,5 @@
 package prime_numbers;
-
+// Main file
 import java.util.Scanner;
 
 public class prime_numbers {
