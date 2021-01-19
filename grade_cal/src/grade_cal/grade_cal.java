@@ -1,5 +1,5 @@
 package grade_cal;
-
+// Main file
 import java.util.Scanner;
 
 public class grade_cal {
